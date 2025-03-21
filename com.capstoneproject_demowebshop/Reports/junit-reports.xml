@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="28.51" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Rediff Sign-in" name="Login with correct username and correct password - #1.1" time="16.634">
+<system-out><![CDATA[
+Given I navigate to the sign-in page........................................passed
+When I click the sig-in button..............................................passed
+And enter "Yogesh" in the username field....................................passed
+And enter "Yogesh1234" in the password field................................passed
+And clicks the signin button................................................passed
+Then user should be logged successfully.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Rediff Sign-in" name="Login with correct username and correct password - #1.2" time="11.309">
+<system-out><![CDATA[
+Given I navigate to the sign-in page........................................passed
+When I click the sig-in button..............................................passed
+And enter "Sathish" in the username field...................................passed
+And enter "Sathish1234" in the password field...............................passed
+And clicks the signin button................................................passed
+Then user should be logged successfully.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
