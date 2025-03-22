@@ -15,7 +15,7 @@ Then Registered successfuly
 
 Examples:
 |First name      |Second name        |Email                        |Password        |Confirm password |
-|Yogeshwaran  |Muniyandi            |mnccsk@gmail.com        |123456            |123456                 |
+|Yogeshwaran  |Muniyandi            |mnccbse@gmail.com        |123456            |123456                 |
 
 @createaccountwithinvalidemail
 Scenario Outline: Register on the website with invalid email
